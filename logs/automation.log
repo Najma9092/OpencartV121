@@ -302,3 +302,7 @@ Session ID: d604068649a7f289423722b0a76ba522
 12:33:11:897 [main] INFO  testCases.TC002_LoginTest - ====== Starting test execution on browser: chrome ======
 12:35:34:889 [main] INFO  testCases.TC001_AccountRegistrationTest - ====== Starting test execution on browser: chrome ======
 12:35:39:538 [main] INFO  testCases.TC002_LoginTest - ====== Starting test execution on browser: chrome ======
+12:01:46:913 [main] INFO  testCases.TC001_AccountRegistrationTest - ====== Starting test execution on browser: chrome ======
+12:01:51:832 [main] INFO  testCases.TC002_LoginTest - ====== Starting test execution on browser: chrome ======
+12:11:39:515 [main] INFO  testCases.TC001_AccountRegistrationTest - ====== Starting test execution on browser: chrome ======
+12:11:44:293 [main] INFO  testCases.TC002_LoginTest - ====== Starting test execution on browser: chrome ======
